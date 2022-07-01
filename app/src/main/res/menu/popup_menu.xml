@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/skincare"
+        android:title="@string/option_skincare" />
+    <item android:id="@+id/makeup"
+        android:title="@string/option_makeup" />
+    <item android:id="@+id/clean_at_sephora"
+        android:title="@string/option_clean_at_sephora" />
+    <item android:id="@+id/hair"
+        android:title="@string/option_hair" />
+    <item android:id="@+id/tools_and_brushes"
+        android:title="@string/option_tools_and_brushes" />
+    <item android:id="@+id/fragrance"
+        android:title="@string/option_fragrance" />
+    <item android:id="@+id/bath_and_body"
+        android:title="@string/option_bath_and_body" />
+    <item android:id="@+id/gifts"
+        android:title="@string/option_gifts" />
+    <item android:id="@+id/men"
+        android:title="@string/option_men" />
+    <item android:id="@+id/mini_size"
+        android:title="@string/option_mini_size" />
+
+</menu>
